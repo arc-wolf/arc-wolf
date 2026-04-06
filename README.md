@@ -63,8 +63,7 @@ A full-stack platform to manage and automate lab environments:
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=arc-wolf\&show_icons=true\&theme=tokyonight)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=arc-wolf&show_icons=true&theme=tokyonight&hide_border=true)
 ---
 
 ## 🎯 Focus
