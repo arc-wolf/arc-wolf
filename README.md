@@ -4,7 +4,7 @@
 
 I’m an IT support professional with experience supporting Windows and Ubuntu computer labs, troubleshooting application and network issues, and helping maintain reliable systems for students and faculty.
 
-I currently work as a **Lab Assistant at Amrita School of Computing, Amrita Vishwa Vidyapeetham**. Alongside day-to-day lab support, I’ve worked on Linux-based examination infrastructure, application deployment, user support, and scripting to simplify repeatable tasks.
+Most recently, I worked as a **Lab Assistant at Amrita School of Computing, Amrita Vishwa Vidyapeetham**. Alongside day-to-day lab support, I worked on Linux-based examination infrastructure, application deployment, user support, and scripting to simplify repeatable tasks.
 
 My career focus is **Linux system administration, IT infrastructure support, and practical automation**.
 
@@ -89,13 +89,13 @@ I’m continuing to develop my skills through hands-on Linux administration and 
 ## Experience
 
 **Lab Assistant — Amrita School of Computing, Amrita Vishwa Vidyapeetham**  
-*July 2025 – Present*
+*July 2025 – October 2026*
 
-- Support Windows and Ubuntu lab environments during practical sessions, examinations, and project evaluations.
-- Assist students and faculty with software, application, and development-environment issues.
-- Install and configure lab applications and tools.
-- Use shell, PowerShell, batch scripts, and adapted Ansible playbooks to automate repeatable lab tasks.
-- Support lab operations for regular sessions and larger examination environments.
+- Supported Windows and Ubuntu lab environments during practical sessions, examinations, and project evaluations.
+- Assisted students and faculty with software, application, and development-environment issues.
+- Installed and configured lab applications and tools.
+- Used shell, PowerShell, batch scripts, and adapted Ansible playbooks to automate repeatable lab tasks.
+- Supported lab operations for regular sessions and larger examination environments.
 
 ---
 
