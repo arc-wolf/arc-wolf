@@ -1,71 +1,119 @@
-# Hi, I'm Amalkumar AK
+# Amalkumar AK
 
-**IT Support | Linux Administration | Infrastructure Automation**
+**IT Support | Junior System Administrator | Linux Support**
 
-I am an IT and laboratory support professional with hands-on experience supporting Windows and Ubuntu lab environments, troubleshooting software and network issues, and automating repeatable administration tasks.
+I’m an IT support professional with experience supporting Windows and Ubuntu computer labs, troubleshooting application and network issues, and helping maintain reliable systems for students and faculty.
 
-I currently work as a **Lab Assistant at Amrita School of Computing, Amrita Vishwa Vidyapeetham**. My work includes supporting practical sessions and examinations, maintaining lab software environments, assisting students and faculty, and using scripts and automation to simplify lab operations.
+Most recently, I worked as a **Lab Assistant at Amrita School of Computing, Amrita Vishwa Vidyapeetham**. Alongside day-to-day lab support, I worked on Linux-based examination infrastructure, application deployment, user support, and scripting to simplify repeatable tasks.
 
-## Focus areas
+My career focus is **Linux system administration, IT infrastructure support, and practical automation**.
 
-- Linux system administration and troubleshooting
-- Windows and Ubuntu workstation support
-- Networking fundamentals and service troubleshooting
-- Bash, PowerShell and Windows batch scripting
-- Ansible-based automation
-- Application deployment and configuration
-- Docker-based service deployment
-- User support, documentation and operational troubleshooting
+---
 
-## Featured projects
+## What I work with
 
-### [A.I.D.P.S. — Automated Infrastructure Discovery & Provisioning System](https://github.com/arc-wolf/A.I.D.P.S)
+- **Operating systems:** Ubuntu, Linux, Windows 11
+- **Linux operations:** SSH, systemd services, logs, permissions, package management, service troubleshooting
+- **Automation:** Bash, PowerShell, Windows batch scripting, Ansible
+- **Networking:** TCP/IP, DNS, DHCP, subnetting, LAN troubleshooting
+- **Infrastructure:** Docker, Docker Compose, Nginx, application deployment
+- **Support:** workstation setup, software installation, user assistance, incident troubleshooting
+- **Other tools:** Python, Java, PHP, SQL, Django, Flask, Grafana
 
-A Flask-based lab infrastructure management project exploring network discovery, service detection, device inventory, remote-management provisioning and Ansible inventory generation.
+---
 
-**Technologies:** Python, Flask, Scapy, SSH, WinRM, Ansible, SQLite, MongoDB.
+## Selected infrastructure and technical projects
 
-### [LabTrack](https://github.com/arc-wolf/lab_track)
+### 1. Linux-based examination server — DOMjudge 9.0.1
 
-A Django-based laboratory hardware inventory and borrowing-management application with user roles, group workflows, component reservations and borrowing requests.
+Deployed and helped customize a local programming-examination platform on a bare-metal Ubuntu server at the college.
 
-**Technologies:** Python, Django, SQL, REST API.
+- Supported an examination environment serving **210 lab client machines**.
+- Worked with a small team on server deployment, application configuration, and workflow customization.
+- Assisted with user management, monitoring, and troubleshooting login and submission issues.
+- Helped adapt the platform’s frontend and backend to simplify examination operations.
 
-### [Collector](https://github.com/arc-wolf/collector)
+**Environment:** Ubuntu Server, DOMjudge 9.0.1, Linux, local network
 
-A LAN-oriented student file-submission application built with PHP and MariaDB, with deployment guidance focused on Apache, restricted upload storage and network access controls.
+### 2. [A.I.D.P.S. — Automated Infrastructure Discovery & Provisioning System](https://github.com/arc-wolf/A.I.D.P.S)
 
-**Technologies:** PHP, Apache, MariaDB, Linux.
+A lab infrastructure project exploring network discovery, device inventory, and remote-management workflows.
 
-### [Real-Time Cryptocurrency Analytics Dashboard](https://github.com/arc-wolf/Real-Time-Cryptocurrency-Analytics-Dashboard)
+- Explores identifying devices and services on a network.
+- Includes SSH and WinRM-based remote-management components.
+- Integrates Ansible inventory and provisioning workflows.
 
-A data collection and visualization project using Python, InfluxDB and Grafana, deployed with Docker Compose.
+**Technologies:** Python, Flask, Ansible, SSH, WinRM, SQLite, MongoDB
 
-**Technologies:** Python, InfluxDB, Grafana, Docker Compose.
+### 3. [LabTrack](https://github.com/arc-wolf/lab_track)
 
-### [Exam Duty Dashboard](https://github.com/arc-wolf/Exam_duty_dashboard)
+A Django-based laboratory hardware inventory and borrowing-management application.
 
-A Streamlit tool for processing examination duty spreadsheets and reviewing faculty workload and assignment gaps.
+- Tracks laboratory components and inventory.
+- Supports user roles, reservations, borrowing requests, and approval workflows.
+- Provides a REST API for application operations.
 
-**Technologies:** Python, Streamlit, Excel.
+**Technologies:** Python, Django, REST API, SQL
 
-## Technical toolkit
+### 4. [Collector](https://github.com/arc-wolf/collector)
 
-| Area | Tools and technologies |
-|---|---|
-| Operating systems | Linux, Ubuntu, Windows |
-| Administration | SSH, systemd, service and log troubleshooting |
-| Automation | Bash, PowerShell, batch scripting, Ansible |
-| Networking | TCP/IP, DNS, DHCP, subnetting, service discovery |
-| Containers | Docker, Docker Compose |
-| Development | Python, Java, PHP, SQL |
-| Platforms | Django, Flask, Streamlit, Grafana |
+A LAN-oriented student file-submission application built for a controlled lab environment.
 
-## Career direction
+- Built around PHP, Apache, and MariaDB.
+- Includes restricted upload storage and configuration guidance.
+- Documents deployment and access-control considerations for a local network.
 
-Building practical capability in **Linux system administration, IT infrastructure support and automation** through hands-on projects and troubleshooting exercises.
+**Technologies:** PHP, Apache, MariaDB, Linux
+
+### 5. [Exam Duty Dashboard](https://github.com/arc-wolf/Exam_duty_dashboard)
+
+A small tool for processing examination-duty spreadsheets and reviewing faculty workload and assignment gaps.
+
+**Technologies:** Python, Streamlit, Excel
+
+---
+
+## Home lab and ongoing practice
+
+I use an older laptop running Linux as a practical environment to build system administration skills.
+
+- Set up and manage Linux services over SSH.
+- Run Docker containers, including an Nginx web server.
+- Practice container lifecycle operations, port mapping, and service checks.
+- Troubleshoot services using status output, logs, listening ports, and network checks.
+
+I’m continuing to develop my skills through hands-on Linux administration and troubleshooting exercises.
+
+---
+
+## Experience
+
+**Lab Assistant — Amrita School of Computing, Amrita Vishwa Vidyapeetham**  
+*July 2025 – October 2026*
+
+- Supported Windows and Ubuntu lab environments during practical sessions, examinations, and project evaluations.
+- Assisted students and faculty with software, application, and development-environment issues.
+- Installed and configured lab applications and tools.
+- Used shell, PowerShell, batch scripts, and adapted Ansible playbooks to automate repeatable lab tasks.
+- Supported lab operations for regular sessions and larger examination environments.
+
+---
+
+## Career interests
+
+I’m interested in opportunities in:
+
+- IT Support / Desktop Support
+- Linux Support
+- Junior System Administration
+- Infrastructure Support
+- Technical Support / IT Operations
+
+I’m particularly interested in roles that involve troubleshooting, system maintenance, Linux, networking, and infrastructure automation.
+
+---
 
 ## Contact
 
-- Email: [amal.kumar.ak99@gmail.com](mailto:amal.kumar.ak99@gmail.com)
-- GitHub: [@arc-wolf](https://github.com/arc-wolf)
+- **Email:** [amal.kumar.ak99@gmail.com](mailto:amal.kumar.ak99@gmail.com)
+- **GitHub:** [github.com/arc-wolf](https://github.com/arc-wolf)
