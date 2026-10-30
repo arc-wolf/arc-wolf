@@ -1,80 +1,71 @@
-# 👋 Hi, I'm Amalkumar AK A.K.A Arc Wolf
+# Hi, I'm Amalkumar AK
 
-⚙️ **Systems Engineer | Lab Infrastructure | Automation | Cybersecurity**
+**IT Support | Linux Administration | Infrastructure Automation**
 
----
+I am an IT and laboratory support professional with hands-on experience supporting Windows and Ubuntu lab environments, troubleshooting software and network issues, and automating repeatable administration tasks.
 
-## 🚀 About Me
+I currently work as a **Lab Assistant at Amrita School of Computing, Amrita Vishwa Vidyapeetham**. My work includes supporting practical sessions and examinations, maintaining lab software environments, assisting students and faculty, and using scripts and automation to simplify lab operations.
 
-I work on **real-world lab infrastructure systems**, focusing on:
+## Focus areas
 
-* ⚙️ Infrastructure Automation
-* 🌐 Network Management
-* 🔐 Cybersecurity (hands-on labs)
-* 🧠 System Design & Control
+- Linux system administration and troubleshooting
+- Windows and Ubuntu workstation support
+- Networking fundamentals and service troubleshooting
+- Bash, PowerShell and Windows batch scripting
+- Ansible-based automation
+- Application deployment and configuration
+- Docker-based service deployment
+- User support, documentation and operational troubleshooting
 
-Currently working as a **Software Lab Instructor @ Amrita Vishwa Vidyapeetham**.
+## Featured projects
 
----
+### [A.I.D.P.S. — Automated Infrastructure Discovery & Provisioning System](https://github.com/arc-wolf/A.I.D.P.S)
 
-## 🔥 Flagship Project
+A Flask-based lab infrastructure management project exploring network discovery, service detection, device inventory, remote-management provisioning and Ansible inventory generation.
 
-### ⚙️ A.I.D.P.S — Automated Infrastructure Discovery & Provisioning System
+**Technologies:** Python, Flask, Scapy, SSH, WinRM, Ansible, SQLite, MongoDB.
 
-A full-stack platform to manage and automate lab environments:
+### [LabTrack](https://github.com/arc-wolf/lab_track)
 
-* 🔍 Network discovery (IP + MAC)
-* 🔐 SSH / WinRM detection & provisioning
-* 🗄️ SQL device inventory
-* 📦 Software tracking (MongoDB)
-* 📊 Web dashboard (Flask)
-* 📥 Excel reporting
-* 🎛️ Ansible integration
+A Django-based laboratory hardware inventory and borrowing-management application with user roles, group workflows, component reservations and borrowing requests.
 
----
+**Technologies:** Python, Django, SQL, REST API.
 
-## 🧱 Other Key Projects
+### [Collector](https://github.com/arc-wolf/collector)
 
-* 🧪 LabTrack — IoT-based lab management system
-* ⚙️ Lab Automation Toolkit — SSH & Ansible-based control
-* 🔐 Cybersecurity Labs — hands-on scripts
+A LAN-oriented student file-submission application built with PHP and MariaDB, with deployment guidance focused on Apache, restricted upload storage and network access controls.
 
----
+**Technologies:** PHP, Apache, MariaDB, Linux.
 
-## 🧠 Tech Stack
+### [Real-Time Cryptocurrency Analytics Dashboard](https://github.com/arc-wolf/Real-Time-Cryptocurrency-Analytics-Dashboard)
 
-**Languages**
+A data collection and visualization project using Python, InfluxDB and Grafana, deployed with Docker Compose.
 
-* Python, C, Java, Bash
+**Technologies:** Python, InfluxDB, Grafana, Docker Compose.
 
-**Systems & Networking**
+### [Exam Duty Dashboard](https://github.com/arc-wolf/Exam_duty_dashboard)
 
-* Linux, OS, Networking
+A Streamlit tool for processing examination duty spreadsheets and reviewing faculty workload and assignment gaps.
 
-**Automation & Infra**
+**Technologies:** Python, Streamlit, Excel.
 
-* Ansible, SSH
+## Technical toolkit
 
-**Security**
+| Area | Tools and technologies |
+|---|---|
+| Operating systems | Linux, Ubuntu, Windows |
+| Administration | SSH, systemd, service and log troubleshooting |
+| Automation | Bash, PowerShell, batch scripting, Ansible |
+| Networking | TCP/IP, DNS, DHCP, subnetting, service discovery |
+| Containers | Docker, Docker Compose |
+| Development | Python, Java, PHP, SQL |
+| Platforms | Django, Flask, Streamlit, Grafana |
 
-* TryHackMe labs
+## Career direction
 
----
+Building practical capability in **Linux system administration, IT infrastructure support and automation** through hands-on projects and troubleshooting exercises.
 
-## 📊 GitHub Stats
+## Contact
 
-![Stats](https://github-readme-stats.vercel.app/api?username=arc-wolf&show_icons=true&theme=tokyonight&hide_border=true)
----
-
-## 🎯 Focus
-
-Building **real infrastructure systems combining automation + security**
-
----
-
-## 🌐 Connect
-
-* 📧 Email: amal.kumar.ak99@gmail.com
-
-
-<!--refresh-->
+- Email: [amal.kumar.ak99@gmail.com](mailto:amal.kumar.ak99@gmail.com)
+- GitHub: [@arc-wolf](https://github.com/arc-wolf)
